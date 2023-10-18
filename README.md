@@ -4,4 +4,4 @@
 
 #Link
 
-https://veerasekar-ravichandran.github.io/OIBSIP/OASIS%20Project/Landing%20Page/
+https://veerasekar-ravichandran.github.io/OCTANET_OCTOBER/OASIS%20Project/Landing%20Page/
